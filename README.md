@@ -1,4 +1,4 @@
-## Hi! Im Blayqe Forbes!
+<h1 align="center">Hi 👋🏽, I'm Blayqe Forbes! </h1>
 
 <!--
 **0x5erotonin/0x5erotonin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
